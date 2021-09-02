@@ -1,5 +1,3 @@
-# 以義中網站為抓取點
-# 在find裡面
 import json
 import urllib.request as req
 import os
